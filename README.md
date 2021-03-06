@@ -28,7 +28,7 @@ Questions in S12-Assignment-Solution:
 
 Github Link: [https://github.com/Keerthi001/12_TinyImageNet/blob/main/12th_AdvancedTraining.ipynb](https://github.com/Keerthi001/12_TinyImageNet/blob/main/12th_AdvancedTraining.ipynb)
 
-Colab Link: [https://colab.research.google.com/github/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/12_TinyImageNet/TinyImageNet.ipynb#scrollTo=CDyM79bXAaMl](https://colab.research.google.com/github/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/12_TinyImageNet/TinyImageNet.ipynb#scrollTo=CDyM79bXAaMl)
+Colab Link: [https://colab.research.google.com/github/Keerthi001/12_TinyImageNet/blob/main/12th_AdvancedTraining.ipynb#scrollTo=CDyM79bXAaMl](https://colab.research.google.com/github/Keerthi001/12_TinyImageNet/blob/main/12th_AdvancedTraining.ipynb#scrollTo=CDyM79bXAaMl)
 ```
 Final Accuracy
 Test: 53.66
